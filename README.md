@@ -9,6 +9,7 @@ Install Streamlit (pip install streamlit)
 
 # Run The App
 Clone the app using (git clone https://github.com/bsarthak16/CryptoSeats.git)
+
 Run the app using - streamlit run app.py
 
 
